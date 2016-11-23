@@ -1,6 +1,6 @@
-# PytSite LibeJournal Plugin
+# PytSite LiveJournal Plugin
 
-[LibeJournal](https://livejournal.com) plugin for [PytSite](https://pytsite.xyz).
+[LiveJournal](https://livejournal.com) plugin for [PytSite](https://pytsite.xyz).
 
 
 ## Installation
