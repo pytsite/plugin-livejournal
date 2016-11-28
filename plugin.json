@@ -1,1 +1,20 @@
-{}
+{
+  "name": "LiveJournal",
+  "description": {
+    "en": "LiveJournal support",
+    "ru": "Поддержка LiveJournal",
+    "uk": "Підримка LiveJournal"
+  },
+  "url": "https://github.com/pytsite/plugin-livejournal",
+  "author": {
+    "name": "Alexander Shepetko",
+    "email": "a@shepetko.com",
+    "url": "https://shepetko.com"
+  },
+  "requires": {
+    "packages": [],
+    "plugins": [
+      "content_export"
+    ]
+  }
+}

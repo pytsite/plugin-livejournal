@@ -1,8 +1,9 @@
 """LiveJournal content_export's Driver.
 """
 from frozendict import frozendict as _frozendict
-from pytsite import content_export as _content_export, widget as _widget, html as _html, lang as _lang, \
-    assetman as _assetman, util as _util, logger as _logger
+from pytsite import widget as _widget, html as _html, lang as _lang, assetman as _assetman, util as _util, \
+    logger as _logger
+from plugins import content_export as _content_export
 from ._session import Session as _Session
 
 __author__ = 'Alexander Shepetko'
