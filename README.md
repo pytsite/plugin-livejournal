@@ -1,13 +1,15 @@
 # PytSite LiveJournal Plugin
 
-[LiveJournal](https://livejournal.com) support.
-
-
 ## Changelog
 
+### 0.2.1 (2016-12-19)
+plugin.json updated.
+
+
 ### 0.2 (2016-11-28)
-- Added support for `content_export` as plugin.
-- Updated plugins.json.
+- Support of `content_export` as plugin.
+- plugin.json updated.
+
 
 ### 0.1 (2016-11-23)
 First release.
