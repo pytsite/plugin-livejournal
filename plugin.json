@@ -1,8 +1,8 @@
 {
   "description": {
-    "en": "LiveJournal support",
-    "ru": "Поддержка LiveJournal",
-    "uk": "Підримка LiveJournal"
+    "en": "LiveJournal API",
+    "ru": "LiveJournal API",
+    "uk": "LiveJournal API"
   },
   "url": "https://github.com/pytsite/plugin-livejournal",
   "author": {
@@ -12,8 +12,6 @@
   },
   "requires": {
     "packages": [],
-    "plugins": [
-      "content_export"
-    ]
+    "plugins": []
   }
 }
