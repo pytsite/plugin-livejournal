@@ -1,4 +1,4 @@
-"""PytSite LiveJournal Session.
+"""PytSite LiveJournal Plugin Session
 """
 import pytz as _pytz
 from typing import Iterable as _Iterable

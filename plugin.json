@@ -1,6 +1,6 @@
 {
-  "name": "plugins.livejournal",
-  "version": "0.3.1",
+  "name": "livejournal",
+  "version": "0.3.2",
   "description": {
     "en": "LiveJournal API",
     "ru": "LiveJournal API",

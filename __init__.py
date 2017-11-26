@@ -1,4 +1,4 @@
-"""PytSite LiveJournal Package.
+"""PytSite LiveJournal Plugin
 """
 # Public API
 from ._session import Session
